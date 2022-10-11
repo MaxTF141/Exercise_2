@@ -1,0 +1,9 @@
+li:first-child:hover {
+    color: red;
+    background-color: bisque;
+    width: 100px;
+}
+
+li:last-child {
+    color: green;
+}
